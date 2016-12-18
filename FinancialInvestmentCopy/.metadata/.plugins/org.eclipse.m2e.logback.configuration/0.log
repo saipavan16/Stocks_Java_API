@@ -1,0 +1,42 @@
+2016-12-17 22:23:13,927 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.suddenlyjune.financialinvestment:financialinvestment:0.0.1-SNAPSHOT @ C:\Users\sai\Documents\FinancialInvestmentCopy\FinancialInvestmentCopy\pom.xml.
+2016-12-17 22:23:29,645 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-17 22:23:29,706 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sai\Documents\FinancialInvestmentCopy\FinancialInvestmentCopy\src\main\resources
+2016-12-17 22:23:29,712 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-17 22:23:29,728 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sai\Documents\FinancialInvestmentCopy\FinancialInvestmentCopy\src\test\resources
+2016-12-17 22:23:35,033 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-17 22:23:35,045 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sai\Documents\FinancialInvestmentCopy\FinancialInvestmentCopy\src\main\resources
+2016-12-17 22:23:35,046 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-17 22:23:35,058 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sai\Documents\FinancialInvestmentCopy\FinancialInvestmentCopy\src\test\resources
+2016-12-17 22:23:35,930 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-17 22:23:36,123 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sai\Documents\FinancialInvestmentCopy\FinancialInvestmentCopy\src\main\resources
+2016-12-17 22:23:36,125 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-17 22:23:36,211 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sai\Documents\FinancialInvestmentCopy\FinancialInvestmentCopy\src\test\resources
+2016-12-17 22:23:37,523 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-17 22:23:37,593 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sai\Documents\FinancialInvestmentCopy\FinancialInvestmentCopy\src\main\resources
+2016-12-17 22:23:37,595 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-17 22:23:37,655 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sai\Documents\FinancialInvestmentCopy\FinancialInvestmentCopy\src\test\resources
+2016-12-17 22:23:38,833 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-17 22:23:38,853 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sai\Documents\FinancialInvestmentCopy\FinancialInvestmentCopy\src\main\resources
+2016-12-17 22:23:38,862 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-17 22:23:38,898 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sai\Documents\FinancialInvestmentCopy\FinancialInvestmentCopy\src\test\resources
+2016-12-17 22:23:39,819 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-17 22:23:39,875 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sai\Documents\FinancialInvestmentCopy\FinancialInvestmentCopy\src\main\resources
+2016-12-17 22:23:39,892 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-17 22:23:39,934 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sai\Documents\FinancialInvestmentCopy\FinancialInvestmentCopy\src\test\resources
+2016-12-17 22:23:40,660 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-17 22:23:40,709 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sai\Documents\FinancialInvestmentCopy\FinancialInvestmentCopy\src\main\resources
+2016-12-17 22:23:40,750 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-17 22:23:40,877 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sai\Documents\FinancialInvestmentCopy\FinancialInvestmentCopy\src\test\resources
+2016-12-17 22:23:41,574 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-17 22:23:41,658 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sai\Documents\FinancialInvestmentCopy\FinancialInvestmentCopy\src\main\resources
+2016-12-17 22:23:41,687 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-17 22:23:41,725 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sai\Documents\FinancialInvestmentCopy\FinancialInvestmentCopy\src\test\resources
+2016-12-17 22:32:12,536 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-17 22:32:12,550 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sai\Documents\FinancialInvestmentCopy\FinancialInvestmentCopy\src\main\resources
+2016-12-17 22:32:12,552 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-17 22:32:12,567 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sai\Documents\FinancialInvestmentCopy\FinancialInvestmentCopy\src\test\resources
+2016-12-17 22:32:57,399 [Worker-1] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for FinancialInvestmentCopy
+2016-12-17 22:32:58,580 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-17 22:32:58,604 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sai\Documents\FinancialInvestmentCopy\FinancialInvestmentCopy\src\main\resources
+2016-12-17 22:32:58,614 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-17 22:32:58,630 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sai\Documents\FinancialInvestmentCopy\FinancialInvestmentCopy\src\test\resources

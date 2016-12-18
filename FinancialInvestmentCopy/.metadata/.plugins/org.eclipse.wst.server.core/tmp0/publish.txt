@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sat Dec 17 22:26:30 PST 2016
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\sai\\.m2\\repository\\org\\springframework\\spring-web\\4.2.4.RELEASE\\spring-web-4.2.4.RELEASE.jar=C\:\\Users\\sai\\Documents\\spring-tool-suite-3.6.1.RELEASE-e4.4-win32-x86_64\\sts-bundle\\pivotal-tc-server-developer-3.0.0.RELEASE\\base-instance\\wtpwebapps\\FinancialInvestmentCopy\\WEB-INF\\lib\\spring-web-4.2.4.RELEASE.jar
+org.eclipse.jst.jee.server\:FinancialInvestmentCopy=C\:\\Users\\sai\\Documents\\spring-tool-suite-3.6.1.RELEASE-e4.4-win32-x86_64\\sts-bundle\\pivotal-tc-server-developer-3.0.0.RELEASE\\base-instance\\wtpwebapps\\FinancialInvestmentCopy
